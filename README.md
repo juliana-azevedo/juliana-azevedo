@@ -7,8 +7,8 @@
 ## **GitHub Stats**
  <div>
   <a href="https://github.com/juliana-azevedo">
-  <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliana-azevedo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliana-azevedo&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliana-azevedo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliana-azevedo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
