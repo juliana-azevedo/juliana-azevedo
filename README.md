@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 💻 Linguagem de programação: C, Python
-- 📚 Aprendendo: Machine Learning, Docker, Banco de Dados
-- 🎮 Entusiasta em jogos 
+- 💻 **Programming Languages**: C, Python
+- 📚 **Learning**: Machine Learning, Docker, Banco de Dados
+- 🎮 **Enthusiast in Gaming**
 
 ## **GitHub Stats**
  <div>
